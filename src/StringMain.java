@@ -38,8 +38,7 @@ public class StringMain {
         }
     }
     public static void duplicates(Scanner scanner) {
-//Намагався використати ArrayList для цього завдання, але видавало помилку "Unreachable code"
-//Тому прийшлося імпровізувати
+
         System.out.println("Введіть строку: ");
         String word = scanner.nextLine();
         String result = "";
